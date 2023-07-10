@@ -1,0 +1,10 @@
+h2{
+    color: rgb(35, 214, 214);
+}
+small {
+    display: block;
+}
+
+h3{
+    display: inline;
+}
